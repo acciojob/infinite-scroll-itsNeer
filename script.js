@@ -1,4 +1,3 @@
-// Initial variables to keep track of item count
 let itemCount = 1;
 
 // Function to add list items
