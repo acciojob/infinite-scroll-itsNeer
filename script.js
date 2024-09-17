@@ -1,4 +1,3 @@
-//your code here!
 // Initial variables to keep track of item count
 let itemCount = 1;
 
